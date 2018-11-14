@@ -6,6 +6,7 @@
 - CSS
 - AdobeXD
 - (RWD - mobile, tablet, desktop) / css-grid, media 
+- CMS from [Cosmic JS](https://cosmicjs.com/)
 
 # [DEMO](https://book-diary.netlify.com/)
 

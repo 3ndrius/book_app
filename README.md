@@ -8,7 +8,7 @@
 - (RWD - mobile, tablet, desktop) / css-grid, media 
 - CMS from [Cosmic JS](https://cosmicjs.com/)
 
-# [DEMO](https://book-diary.netlify.com/)
+# [DEMO](https://cosmicjs.com/apps/react-book-app/demo)
 
 
 ## Prototype fullHD

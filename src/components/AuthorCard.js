@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import Cards from './Cards';
 import LandingPageContent from './LandingPageContent';
  function AuthorCard(props) {
-  
   return (
     <div className="reset">
         {props.author && <LandingPageContent page={props.author.title} body={props.author}/>}
@@ -21,5 +20,4 @@ const mapStateToProps = (state, ownProps) => {
     author: state.author.find(item => {return(item.slug === author)})
 }
 }
-
 export default connect(mapStateToProps)(AuthorCard);
